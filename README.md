@@ -12,7 +12,7 @@ This tool was created with the main purpose of facilitating the deployment proce
 
 ## Installation
 ```shell
-$ npm install -g @arquetipo28/gcloud-topics
+$ npm install -g gcloud-topics
 ```
 
 ## Usage
