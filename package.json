@@ -1,6 +1,6 @@
 {
   "name": "gcloud-topics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A gcloud utility to create and manage pubsub topics",
   "main": "bin/index.js",
   "bin": "bin/index.js",
@@ -17,7 +17,9 @@
   ],
   "author": "Arquetipo28",
   "license": "MIT",
-  "repository": { "url": "https://github.com/Arquetipo28/gcloud-topics" },
+  "repository": {
+    "url": "https://github.com/Arquetipo28/gcloud-topics"
+  },
   "devDependencies": {
     "@types/node": "^16.6.1",
     "typescript": "^4.3.5"
